@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lalita Sapkota
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning graphichs designing and frontend development
+- 🌱 I’m currently learning graphichs designing.
 - 💞️ I’m looking to forward to make new connections
 <!--- 📫 How to reach me ...
 ---!>
